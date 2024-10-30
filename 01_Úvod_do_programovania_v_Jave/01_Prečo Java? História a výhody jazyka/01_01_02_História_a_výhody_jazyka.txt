@@ -1,0 +1,65 @@
+História jazyka Java
+Java bola vytvorená v roku 1991 tímom inžinierov v spoločnosti Sun Microsystems, 
+ktorých viedol James Gosling. Pôvodne sa projekt volal Oak, ale neskôr bol premenovaný na Java. 
+Java bola oficiálne vydaná v roku 1995 a priniesla nový prístup k vývoju aplikácií.
+V tom čase boli hlavnými výhodami Javy platformová nezávislosť a bezpečnosť, 
+ktoré sú podporené konceptom "napíš raz, spusti všade" (write once, run anywhere, WORA). 
+Keďže Java aplikácie sú kompilované do bajtového kódu, ktorý beží na Java Virtual Machine (JVM),
+ môžu byť spustené na rôznych operačných systémoch bez zmeny kódu. V roku 2010 Sun Microsystems 
+ získala spoločnosť Oracle, ktorá od tej doby jazyk vyvíja a spravuje.
+
+Výhody jazyka Java
+
+Platformová nezávislosť
+
+Java je navrhnutá tak, aby bola spustiteľná na rôznych platformách vďaka JVM. 
+Kód napísaný v Jave sa najprv preloží do bajtového kódu, ktorý JVM interpretuje a spustí na rôznych 
+operačných systémoch, ako sú Windows, MacOS alebo Linux.
+
+Jednoduchosť a zrozumiteľnosť
+
+Java bola navrhnutá tak, aby bola jednoduchšia než jazyky ako C++. Odstránila mnohé zložité funkcie 
+ako ukazovatele a viacnásobnú dedičnosť, čím sa znížilo riziko chýb a zvýšila zrozumiteľnosť kódu.
+
+Bezpečnosť
+
+Java má integrované bezpečnostné mechanizmy, ktoré chránia pred rôznymi typmi útokov. 
+Tieto mechanizmy umožňujú aplikáciám bežať v kontrolovanom prostredí (sandbox) a poskytujú funkcie, 
+ako sú autentifikácia, šifrovanie a riadenie prístupu k citlivým údajom.
+
+Objektovo-orientovaný prístup (OOP)
+
+Java podporuje princípy OOP, ako sú dedičnosť, polymorfizmus a zapuzdrenie, 
+čo umožňuje písať modulárny a opakovane použiteľný kód. Vďaka tomu je ideálna pre vývoj veľkých a 
+zložitých systémov.
+
+Automatická správa pamäte
+
+Java obsahuje systém automatického garbage collectora, ktorý odstraňuje nepoužívané objekty a 
+spravuje pamäť. Tým znižuje nároky na programátora a minimalizuje riziko pamäťových únikov.
+
+Bohatá štandardná knižnica
+
+Java poskytuje veľké množstvo preddefinovaných tried a knižníc, ktoré pokrývajú širokú škálu 
+funkcií - od manipulácie s reťazcami, vstupno-výstupných operácií, až po prácu so sieťami, 
+databázami, GUI a spracovanie XML a JSON.
+
+Výkonnosť a viacvláknové spracovanie
+
+Vďaka JVM optimalizáciám a podpore viacvláknového spracovania (multithreading) je Java schopná 
+poskytovať vysoký výkon aj pre náročné aplikácie.
+
+Podpora komunity a budúceho rozvoja
+
+Java má rozsiahlu komunitu vývojárov a je jedným z najviac podporovaných jazykov. Každá nová 
+verzia prináša vylepšenia a pridané funkcie, čo zaručuje, že jazyk zostane aktuálny a 
+konkurencieschopný.
+
+Veľké množstvo pracovných príležitostí
+
+Java je jedným z najvyhľadávanejších jazykov na trhu práce, hlavne pre vývoj podnikových
+aplikácií a backendových systémov. Znalosť Javy otvára možnosti v mnohých oblastiach vrátane 
+bankovníctva, poisťovníctva, telekomunikácií a zdravotníctva.
+
+Vďaka týmto vlastnostiam je Java jedným z najdlhšie pretrvávajúcich a najviac používaných 
+programovacích jazykov, ktorý zostáva relevantný a silný aj v modernej dobe.

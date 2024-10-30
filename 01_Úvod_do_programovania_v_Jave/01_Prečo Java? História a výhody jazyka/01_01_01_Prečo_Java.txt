@@ -1,0 +1,3 @@
+Java je jedným z najpopulárnejších programovacích jazykov, ktorý bol navrhnutý s dôrazom na jednoduchú, 
+prenositeľnú a bezpečnú platformu, čím sa stal obľúbenou voľbou pre vývoj rôznych aplikácií, 
+od webových a mobilných aplikácií po veľké podnikové systémy.
